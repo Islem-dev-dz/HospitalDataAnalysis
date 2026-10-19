@@ -1,0 +1,9 @@
+Patient_ID,Age,Sex,Blood_Pressure,Cholesterol,Diagnosis
+001,25,M,120/80,190,Normal
+002,45,F,135/85,220,Hypertension
+003,52,M,140/90,240,Hypertension
+004,30,F,115/75,185,Normal
+005,60,M,150/95,260,Diabetes
+006,38,F,125/80,205,Normal
+007,50,M,130/85,230,Hypertension
+008,65,F,145/90,250,Diabetes
